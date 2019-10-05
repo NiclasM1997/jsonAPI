@@ -176,46 +176,5 @@
             },
             "last_updated": "2019-10-04T19:09:56+00:00"
         }
-    },
-    {
-        "sport": {
-            "key": "soccer",
-            "name": "Soccer"
-        },
-        "league": {
-            "key": "bundesliga",
-            "name": "Bundesliga"
-        },
-        "event": {
-            "home": "Wolfsburg",
-            "away": "Augsburg",
-            "start_time": "2019-10-27T14:30:00+00:00"
-        },
-        "sites": {
-            "1x2": {
-                "outright": false,
-                "bwin": {
-                    "odds": {
-                        "1": 1.53,
-                        "2": 5.5,
-                        "X": 4.2
-                    },
-                    "bookmaker": true,
-                    "exchange": false,
-                    "name": "bwin"
-                },
-                "betfair": {
-                    "odds": {
-                        "1": 2,
-                        "2": 3.3,
-                        "X": 3.6
-                    },
-                    "bookmaker": true,
-                    "exchange": false,
-                    "name": "Betfair"
-                }
-            },
-            "last_updated": "2019-10-04T19:09:29+00:00"
-        }
     }
 ]
